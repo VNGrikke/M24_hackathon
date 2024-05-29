@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import ListProduct from "./listProduct";
 import Cart from "./cart";
 import Notification from "./notification";
-
+// máy em hôm qua bị lỗi từ lúc 3:30 không làm đc bài, tối qua em về bật mãi không lên thầy cho phép em nộp muộn ạ
 interface Product {
   id: number;
   name: string;
